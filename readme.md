@@ -1,4 +1,5 @@
-# 🚀 Product Recommendation API with FastAPI & AWS
+## 🚀 Product Recommendation API - Deployed on AWS EC2 ☁
+
 
 This project implements a **Product Recommendation System** using **SVD (Singular Value Decomposition)**, trained with the **Surprise** library and deployed via **FastAPI**. The model is hosted on **AWS EC2**, providing a scalable and efficient recommendation API.
 
