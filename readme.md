@@ -143,6 +143,14 @@ This project is an API that receives a **customer ID** and returns the **N most 
   ]
 }
 ```
+## Instalação
+
+Siga os passos abaixo para configurar o ambiente local:
+
+1. **Clone repositório:**
+   ```bash
+   git clone https://github.com/CesarRonai/product-recommendation-api.git
+   cd product-recommendation-api
 
 ## Next Steps
 ✅ **Deploy the API to AWS (EC2 or SageMaker)**  
