@@ -156,8 +156,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Contact
 For any questions or suggestions, reach out via GitHub!  
-🔗 **GitHub:** [YOUR_USERNAME](https://github.com/YOUR-USERNAME)  
-📧 **Email:** your.email@example.com  
+📧 **Email:** cesar.ronai@hotmail.com  
 
 ## Deploying to GitHub
 ```bash
