@@ -70,7 +70,7 @@ This project is an API that receives a **customer ID** and returns the **N most 
 ## How to Run Locally
 1️⃣ **Clone the repository**  
    ```bash
-   git clone https://github.com/YOUR-USERNAME/recommendation-api.git
+   git clone https://github.com/CesarRonai/product-recommendation-api
    cd recommendation-api
    ```
 
